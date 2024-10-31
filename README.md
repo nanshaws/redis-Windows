@@ -5,6 +5,8 @@
 
 进入某个版本的redis目录
 
+# 注意，咱们直接运行redis-server.exe就行了，我把start.bat给删了
+
 ![image-20241024143722540](./img/image-20241024143722540.png)
 
 ![image-20241024143736134](./img/image-20241024143736134.png)
